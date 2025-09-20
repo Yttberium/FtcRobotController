@@ -1,4 +1,11 @@
 package org.firstinspires.ftc.teamcode.Opmodes;
 
-public class SoloTeleop {
+import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
+
+public class SoloTeleop extends LinearOpMode {
+
+    @Override
+    public void runOpMode() throws InterruptedException {
+
+    }
 }
